@@ -1,5 +1,6 @@
 # helloworld
 
-main( ) {
+main( )
+{
         printf("hello, world\n");
 }
